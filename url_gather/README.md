@@ -9,6 +9,11 @@
         -o             结果的保存路径
         -h             显示帮助信息     
 ```
+### python
+* python >=3.7
 ### 使用
+* 更新pip
+- python -m pip install --upgrade pip 
+* 安装依赖项
 - pip install -r requirement.txt
-- environment: python >=3.7
+
