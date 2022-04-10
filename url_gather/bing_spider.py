@@ -1,4 +1,6 @@
-import requests,re,time
+import requests
+import re
+import time
 import threading
 from argparse import ArgumentParser
 from queue import Queue
