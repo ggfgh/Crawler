@@ -1,7 +1,8 @@
 ## 说明文档 ##
 ### 介绍
-* 这是两个搜集URL的脚本，爬取的是baidu & bing的搜索结果.
-* 主要用于SQL注入的批量化，结合sqlmap.
+* 使用该脚本，结合GoogleHack语法，可以快速搜集大量含有漏洞特征的URL
+* 爬取的是baidu & bing的搜索结果
+* 主要用于批量化寻找含有SQL注入的脆弱站点，结合sqlmap & sqlmapapi进行批量化验证.
 * 参数说明
 ```
         -t  --threads  线程数
