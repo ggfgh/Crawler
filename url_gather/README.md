@@ -5,10 +5,10 @@
 * 主要用于批量化寻找含有SQL注入的脆弱站点，结合sqlmap & sqlmapapi进行批量化验证.
 * 参数说明
 ```
-        -t  --threads  线程数
-        -p  --page     爬取结果的页数
-        -o             结果的保存路径
-        -h             显示帮助信息     
+        -t  --threads           线程数
+        -p  --page              爬取结果的页数
+        -o  --outfile           结果的保存路径
+        -h                      显示帮助信息     
 ```
 ### python环境
 * python >=3.7
