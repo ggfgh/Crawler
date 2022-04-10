@@ -1,4 +1,6 @@
-import requests,re,threading
+import requests
+import re
+import threading
 import time
 from bs4 import BeautifulSoup as bs
 from queue import Queue
