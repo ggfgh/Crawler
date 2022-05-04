@@ -13,9 +13,9 @@
 ### python环境
 * python >=3.7
 ### 使用步骤
-* 更新pip
+1.更新pip
 - python -m pip install --upgrade pip 
-* 安装依赖项
+2.安装依赖项
 - pip install -r requirement.txt
 
 
